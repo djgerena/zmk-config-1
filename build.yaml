@@ -17,7 +17,6 @@
 #    shield: breeze_left
 #  - board: nice_nano_v2
 #    shield: breeze_right
-
 on: [push, pull_request, workflow_dispatch]
 
 jobs:
