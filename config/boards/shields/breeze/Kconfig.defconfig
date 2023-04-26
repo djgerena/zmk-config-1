@@ -1,3 +1,5 @@
+config ZMK_SPLIT_BLE
+	deafult y
 
 if SHIELD_BREEZE_LEFT
 
